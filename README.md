@@ -11,7 +11,7 @@ $ cd E-Commerce-DBMS
 
 ### 2. Create .env File
 
-- duplicate .env.example in backend folder and rename it to .env
+- create .env in backend folder and add the details for MONGO_URL and PORT, etc..
 
 ### 3. Setup MongoDB
 
